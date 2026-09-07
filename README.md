@@ -4,6 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00ffdc&center=true&vCenter=true&width=700&lines=Agentic+RAG+Systems;LLM+Integrations+%26+AI+Agents;Deep+Learning+%2B+PyTorch;Explainable%2C+Production-Ready+AI" alt="Typing intro" />
 
+![Followers](https://img.shields.io/github/followers/Varunbp06?style=flat-square&logo=github&label=Followers)
+![Role](https://img.shields.io/badge/AI%2FML_Engineer-0891b2?style=flat-square&logo=openai&logoColor=white)
+![Profile Art](https://img.shields.io/github/actions/workflow/status/Varunbp06/Varunbp06/update-profile-art.yml?style=flat-square&logo=githubactions&label=profile%20art)
+![Availability](https://img.shields.io/badge/Open_to_roles-May_2026-00b3a4?style=flat-square)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Varunbp06&color=0891b2&style=flat-square&label=Profile+Views)
 
 <img src="./aurora-divider.svg" width="860" />
