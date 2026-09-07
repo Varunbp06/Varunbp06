@@ -51,7 +51,8 @@ for y in range(rows):
         for s, e, t in runs(y))))
 L += [f'<rect width="{W}" height="{H}" fill="url(#sheen)" rx="12" opacity="0.6"/>',
       f'<rect width="{W}" height="{H}" fill="none" stroke="#21262d" stroke-width="3" rx="12"/>',
-      f'<rect x="6" y="6" width="{W - 12}" height="{H - 12}" fill="none" stroke="{ACCENT}" stroke-opacity="0.35" rx="8"/>',
+      f'<rect x="6" y="6" width="{W - 12}" height="{H - 12}" fill="none" stroke="{ACCENT}" stroke-opacity="0.35" rx="8">'
+      f'<animate attributeName="stroke-opacity" values="0.2;0.65;0.2" dur="5s" repeatCount="indefinite"/></rect>',
       '</svg>']
 open(DST, 'w', encoding='utf-8').write('\n'.join(L))
 print(f'wrote {DST} ({COLS}x{rows})')
