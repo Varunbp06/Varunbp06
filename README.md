@@ -85,6 +85,7 @@ English (Full Professional) · Hindi (Professional) · Kannada (Native) · Telug
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Varunbp06/Varunbp06/output/github-snake-dark.svg" width="95%" />
+<p><code>auto-generated daily via Actions · appears after first run</code></p>
 
 </div>
 
@@ -93,6 +94,7 @@ English (Full Professional) · Hindi (Professional) · Kannada (Native) · Telug
 <div align="center">
 
 <img src="./profile-3d/profile-green-animate.svg" width="95%" />
+<p><code>auto-generated daily via Actions · appears after first run</code></p>
 
 </div>
 

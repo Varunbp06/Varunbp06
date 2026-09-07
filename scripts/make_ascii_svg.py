@@ -4,7 +4,7 @@ from PIL import Image
 SRC, DST = 'data/source-prepped.png', 'varun-ascii.svg'
 COLS, CELL_W, CELL_H, FS = 120, 7, 12, 10
 RAMP = " .`:-=+*cs#%@"
-FILL, BG, ACCENT = '#d7dee6', '#0d1117', '#00ffdc'
+FILL, BG, ACCENT = '#c9d1d9', '#0d1117', '#00ffdc'
 
 img = Image.open(SRC).convert('L')
 rows = max(20, round(COLS * (img.height / img.width) * (CELL_W / CELL_H)))

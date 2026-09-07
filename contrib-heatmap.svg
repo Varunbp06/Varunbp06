@@ -376,6 +376,6 @@
 <rect x="128" y="145" width="11" height="11" rx="2.5" fill="#39d353"/>
 <rect x="143" y="145" width="11" height="11" rx="2.5" fill="#69f0a0"/>
 <text x="164" y="154" font-size="11" fill="#7d8590">More</text>
-<text x="750" y="154" font-size="11" fill="#7d8590" text-anchor="end">streak 1d · best 12 on 2026-08-24</text>
+<text x="750" y="154" font-size="11" fill="#7d8590" text-anchor="end">streak 1d · longest 195d · best 12 on 2026-08-24</text>
 <rect width="780" height="184" fill="none" stroke="#21262d" stroke-width="2" rx="10"/>
 </svg>

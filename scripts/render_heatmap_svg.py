@@ -40,7 +40,7 @@ L.append(f'<text x="{LEFT}" y="{fy}" font-size="11" fill="#7d8590">Less</text>')
 for i, c in enumerate(PALETTE[:6]):
     L.append(f'<rect x="{LEFT + 38 + i * 15}" y="{fy - 9}" width="11" height="11" rx="2.5" fill="{c}"/>')
 L.append(f'<text x="{LEFT + 38 + 6 * 15 + 6}" y="{fy}" font-size="11" fill="#7d8590">More</text>')
-L.append(f'<text x="{W - LEFT}" y="{fy}" font-size="11" fill="#7d8590" text-anchor="end">streak {d["current_streak"]}d · best {d["best_day"]["count"]} on {d["best_day"]["date"]}</text>')
+L.append(f'<text x="{W - LEFT}" y="{fy}" font-size="11" fill="#7d8590" text-anchor="end">streak {d["current_streak"]}d · longest {d["longest_streak"]}d · best {d["best_day"]["count"]} on {d["best_day"]["date"]}</text>')
 L.append(f'<rect width="{W}" height="{H}" fill="none" stroke="#21262d" stroke-width="2" rx="10"/>')
 L.append('</svg>')
 open(OUT, 'w', encoding='utf-8').write('\n'.join(L))
