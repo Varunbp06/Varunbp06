@@ -50,6 +50,14 @@ AI/ML Engineer specializing in production-grade, full-stack AI systems — Machi
 
 `RAG · LLMs · LangChain · LangGraph · MCP · Hugging Face · FAISS · XGBoost · SHAP · JWT · Redis · Qdrant · CI/CD · FHIR R4 · OMOP CDM`
 
+### `~/stack-orbit/`
+
+<div align="center">
+
+<img src="./tech-orbit.svg" width="95%" />
+
+</div>
+
 </div>
 
 ### `~/projects/`
@@ -84,7 +92,11 @@ English (Full Professional) · Hindi (Professional) · Kannada (Native) · Telug
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Varunbp06/Varunbp06/output/github-snake-dark.svg" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varunbp06/Varunbp06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varunbp06/Varunbp06/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Varunbp06/Varunbp06/output/github-snake-dark.svg" width="95%" />
+</picture>
 <p><code>auto-generated daily via Actions · appears after first run</code></p>
 
 </div>
@@ -104,3 +116,9 @@ English (Full Professional) · Hindi (Professional) · Kannada (Native) · Telug
 - Mail: varunbpvarunbp@gmail.com
 - LinkedIn: https://linkedin.com/in/varunbp09
 - Location: Nelamangala, Karnataka, India
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,50:0891b2,100:00ffdc&height=120&section=footer" width="100%"/>
+
+</div>

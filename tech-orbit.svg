@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" font-family="monospace">
+<rect width="640" height="360" fill="#0d1117" rx="10"/>
+<ellipse cx="320" cy="180" rx="232" ry="108" fill="none" stroke="#7d8590" stroke-opacity="0.35" stroke-dasharray="4 5"/>
+<ellipse cx="320" cy="180" rx="170" ry="74" fill="none" stroke="#7d8590" stroke-opacity="0.2"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0 320 180" to="360 320 180" dur="28s" repeatCount="indefinite"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0 552 180" to="-360 552 180" dur="28s" repeatCount="indefinite"/><circle cx="552" cy="180" r="5" fill="#00ffdc"/><text x="552" y="168" text-anchor="middle" font-size="13" fill="#e6edf3">Python</text></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 484 256" to="-360 484 256" dur="28s" repeatCount="indefinite"/><circle cx="484" cy="256" r="5" fill="#00ffdc"/><text x="484" y="244" text-anchor="middle" font-size="13" fill="#e6edf3">PyTorch</text></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 320 288" to="-360 320 288" dur="28s" repeatCount="indefinite"/><circle cx="320" cy="288" r="5" fill="#00ffdc"/><text x="320" y="276" text-anchor="middle" font-size="13" fill="#e6edf3">FastAPI</text></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 156 256" to="-360 156 256" dur="28s" repeatCount="indefinite"/><circle cx="156" cy="256" r="5" fill="#00ffdc"/><text x="156" y="244" text-anchor="middle" font-size="13" fill="#e6edf3">React</text></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 88 180" to="-360 88 180" dur="28s" repeatCount="indefinite"/><circle cx="88" cy="180" r="5" fill="#00ffdc"/><text x="88" y="168" text-anchor="middle" font-size="13" fill="#e6edf3">RAG</text></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 156 104" to="-360 156 104" dur="28s" repeatCount="indefinite"/><circle cx="156" cy="104" r="5" fill="#00ffdc"/><text x="156" y="92" text-anchor="middle" font-size="13" fill="#e6edf3">LLMs</text></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 320 72" to="-360 320 72" dur="28s" repeatCount="indefinite"/><circle cx="320" cy="72" r="5" fill="#00ffdc"/><text x="320" y="60" text-anchor="middle" font-size="13" fill="#e6edf3">Docker</text></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 484 104" to="-360 484 104" dur="28s" repeatCount="indefinite"/><circle cx="484" cy="104" r="5" fill="#00ffdc"/><text x="484" y="92" text-anchor="middle" font-size="13" fill="#e6edf3">PostgreSQL</text></g>
+</g>
+<rect x="202" y="156" width="236" height="48" rx="10" fill="#0d3b42" stroke="#00ffdc" stroke-opacity="0.6"/>
+<text x="320" y="186" text-anchor="middle" font-size="16" font-weight="bold" fill="#e6edf3">AI/ML · RAG Systems</text>
+<rect width="640" height="360" fill="none" stroke="#21262d" stroke-width="2" rx="10"/>
+</svg>
