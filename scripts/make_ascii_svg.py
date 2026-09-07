@@ -22,7 +22,7 @@ lines = ['<?xml version="1.0" encoding="UTF-8"?>',
          f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="monospace" font-size="{FS}">',
          f'<rect width="{W}" height="{H}" fill="{BG}" rx="10"/>', '<defs>']
 for i in range(rows):
-    lines.append(f'<clipPath id="r{i}"><rect x="0" y="{i * CELL_H}" width="0" height="{CELL_H}">'
+    lines.append(f'<clipPath id="r{i}"><rect x="0" y="{i * CELL_H}" width="{W}" height="{CELL_H}">'
                  f'<animate attributeName="width" from="0" to="{W}" dur="0.9s" begin="{i * STEP:.2f}s" fill="freeze"/></rect></clipPath>')
 lines.append('</defs>')
 
@@ -31,7 +31,7 @@ for i in range(rows):
     chars = ''.join(RAMP[min(int((255 - px[x, i]) / 255 * len(RAMP)), len(RAMP) - 1)] for x in range(COLS))
     lines.append(f'<text x="4" y="{y}" fill="{FILL}" clip-path="url(#r{i})">{esc(chars)}</text>')
     # block cursor riding the wipe edge
-    lines.append(f'<rect x="0" y="{i * CELL_H + 1}" width="7" height="{CELL_H - 2}" fill="{ACCENT}">'
+    lines.append(f'<rect x="0" y="{i * CELL_H + 1}" width="7" height="{CELL_H - 2}" fill="{ACCENT}" opacity="0">'
                  f'<animate attributeName="x" from="0" to="{W}" dur="0.9s" begin="{i * STEP:.2f}s" fill="freeze"/>'
                  f'<animate attributeName="opacity" values="1;1;0" keyTimes="0;0.92;1" dur="{(rows - i) * STEP + 0.9:.2f}s" fill="freeze"/></rect>')
 

@@ -6,6 +6,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Varunbp06&color=0891b2&style=flat-square&label=Profile+Views)
 
+<img src="./aurora-divider.svg" width="860" />
+
 <h3><code>varun@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
 
@@ -97,7 +99,6 @@ English (Full Professional) · Hindi (Professional) · Kannada (Native) · Telug
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varunbp06/Varunbp06/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Varunbp06/Varunbp06/output/github-snake-dark.svg" width="95%" />
 </picture>
-<p><code>auto-generated daily via Actions · appears after first run</code></p>
 
 </div>
 
@@ -106,9 +107,30 @@ English (Full Professional) · Hindi (Professional) · Kannada (Native) · Telug
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="95%" />
-<p><code>auto-generated daily via Actions · appears after first run</code></p>
 
 </div>
+
+<details>
+<summary><code>⭐ Aurelia AI — what I built & what I used</code></summary>
+
+Multi-tenant AI customer support platform: Qdrant-backed vector knowledge bases, SSE-streamed chat across isolated tenant workspaces, embeddable TypeScript chat widget + admin dashboard, LLM routing across OpenAI / Anthropic / Google / DeepSeek, JWT/bcrypt auth, SSRF-protected ingestion.
+`Next.js 14 · React 18 · TypeScript · FastAPI · PostgreSQL/SQLite · Redis · Qdrant · Docker · JWT`
+
+</details>
+
+<details>
+<summary><code>NexaMind AI — what I built & what I used</code></summary>
+
+Enterprise agentic RAG workspace: real-time streaming AI conversations, multi-step agent workflows across document types and concurrent sessions, parsing → chunking → vector indexing pipeline, MCP tool calling, NextAuth/JWT + RBAC/SSRF hardening.
+`Next.js 16 · React 19 · TypeScript 5 · Tailwind 4 · FastAPI · SQLAlchemy · Chroma/Milvus · Redis · NextAuth · JWT`
+
+</details>
+
+<details>
+<summary><code>Aurevia Health AI — what I built & what I used</code></summary>
+
+Privacy-first clinical decision support: LangGraph multi-agent RAG for real-time clinical workflows, trained CatBoost / XGBoost / TabICLv2 with SHAP explainability and multi-organ digital twin, FHIR R4 + OMOP CDM v5.4 compliance, RBAC + PII redaction.
+`React 19 · FastAPI · LangGraph · Ollama · CatBoost · XGBoost · SHAP · PostgreSQL/SQLite · Docker · JWT · RBAC`
 
 ### `~/contact/`
 
