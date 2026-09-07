@@ -2,7 +2,7 @@
 from PIL import Image
 
 SRC, DST = 'data/source-prepped.png', 'varun-ascii.svg'
-COLS, CELL_W, CELL_H, FS = 110, 7, 12, 10
+COLS, CELL_W, CELL_H, FS = 120, 7, 12, 10
 RAMP = " .`:-=+*cs#%@"
 FILL, BG, ACCENT = '#d7dee6', '#0d1117', '#00ffdc'
 
