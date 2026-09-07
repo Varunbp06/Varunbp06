@@ -105,7 +105,7 @@ English (Full Professional) · Hindi (Professional) · Kannada (Native) · Telug
 
 <div align="center">
 
-<img src="./profile-3d/profile-green-animate.svg" width="95%" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="95%" />
 <p><code>auto-generated daily via Actions · appears after first run</code></p>
 
 </div>
