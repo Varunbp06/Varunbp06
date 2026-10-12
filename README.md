@@ -28,8 +28,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varunbp09)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunbpvarunbp@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://varunbp-portfolio.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-00b3a4?style=for-the-badge&logo=readthedocs&logoColor=white)](https://varunbp-portfolio.vercel.app/Varun%20BP%20Engg%20Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://varunbp.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-00b3a4?style=for-the-badge&logo=readthedocs&logoColor=white)](https://varunbp.vercel.app/Varun%20BP%20Engg%20Resume.pdf)
 
 </div>
 
@@ -139,7 +139,7 @@ Privacy-first clinical decision support: LangGraph multi-agent RAG for real-time
 
 ### `~/contact/`
 
-- Portfolio: https://varunbp-portfolio.vercel.app/
+- Portfolio: https://varunbp.vercel.app/
 - Mail: varunbpvarunbp@gmail.com
 - LinkedIn: https://linkedin.com/in/varunbp09
 - Location: Nelamangala, Karnataka, India
